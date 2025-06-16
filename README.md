@@ -1,1 +1,1 @@
-# dex
+DEX (Decentralized Exchange) is a blockchain-based platform that enables users to trade cryptocurrencies directly from their wallets—without relying on a centralized intermediary. It leverages smart contracts to ensure secure, permissionless, and transparent transactions. This project demonstrates core DEX features like token swaps, liquidity pooling, and automated market making (AMM) using Solidity and Web3 technologies.
